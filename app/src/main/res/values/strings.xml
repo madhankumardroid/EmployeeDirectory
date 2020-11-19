@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EmployeeDirectory</string>
+    <string name="working_at">Working at %1$s</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="company_name">Company Name</string>
+    <string name="api_error_occurred">API Error occurred</string>
+    <string name="api_failure_occurred">API failure occurred</string>
+    <string name="employee_detail_not_found">Employee detail not found</string>
+    <string name="search">Search</string>
+    <string name="employees">Employees</string>
+    <string name="profile">Profile</string>
+    <string name="avatar">Avatar</string>
+</resources>
